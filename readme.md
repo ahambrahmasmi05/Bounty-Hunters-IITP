@@ -1,4 +1,4 @@
-# <b>bounty-hunter</b>
+# <b>Bounty Hunter</b>
 A real-time bug detection AI platform for web3 projects and smart contracts for web3 projects and smart contracts
 
 ##What is Bounty Hunter 1.0?
